@@ -90,7 +90,7 @@ This code is a **sample** from a larger project and is **not complete**. It is p
 
 ## License
 
-This plugin is licensed under the [GPLv3](https://www.gnu.org/licenses/old-licenses/gpl-3.0.html) license.
+This plugin is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license.
 
 ---
 
