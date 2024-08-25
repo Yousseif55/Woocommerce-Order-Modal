@@ -14,7 +14,7 @@
 
 ## Installation
 
-1. **Upload** the `woocommerce-order-modal-barcode` plugin folder to your WordPress plugins directory (`/wp-content/plugins/`).
+1. **Upload** the `woocommerce-order-modal` plugin folder to your WordPress plugins directory (`/wp-content/plugins/`).
 2. **Activate** the plugin through the 'Plugins' menu in WordPress.
 3. **Configure** the plugin settings in the WooCommerce settings area to integrate with your barcode system.
 
